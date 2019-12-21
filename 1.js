@@ -73,6 +73,9 @@
 				},
 				gkd:function(){
 					return true
+				},
+				gck:function(){
+					
 				}
 			}
 
